@@ -21,6 +21,5 @@ Add the steps to the job:
 -- Use the actions/setup-node@v4 action.
 -- Specify the Node.js version (20.9.0).
 - Install dependencies with npm for a clean install.
-- Build the app
 - Run tests
 
